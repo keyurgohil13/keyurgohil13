@@ -1,4 +1,4 @@
-<h1 align="center">Hey Geeks 👋, I'm KEYUR GOHIL</h1>
+<h1 align="center">Hey Geek 👋, I'm KEYUR GOHIL</h1>
 <h3 align="center">A passionate fullstack mentor from Surat, Gujarat, India</h3>
 
 ### ✍️ Random Dev Quote
