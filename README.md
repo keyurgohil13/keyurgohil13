@@ -2,9 +2,7 @@
 <h3 align="center">A passionate fullstack mentor from Surat, Gujarat, India</h3>
 
 ### ✍️ Random Dev Quote
-<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kg.13.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/keyur-gohil-13122k) 
